@@ -4,6 +4,7 @@ FROM python:${PYTHON_VERSION} as builder
 
 # Set the working directory
 WORKDIR /app
+
 COPY . .
 
 # Stage 2: Run Stage

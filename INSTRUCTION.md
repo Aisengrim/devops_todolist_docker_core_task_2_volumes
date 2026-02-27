@@ -13,9 +13,7 @@
 ```
 
 
-
 ## Grab the container `IPv4Address` and replace in `todolist/settings.py` in `DATABASES`(line 70) property
-
 
 
 ## Use commands to build and run the app
@@ -26,9 +24,7 @@
 ```
 
 
-
 ## In the browser open [localhost](http://localhost:8080/)
-
 
 
 ## To push any of the images use commands:
@@ -37,7 +33,6 @@
     docker tag [source-image] [repository-name]/[source-image]
     docker push [repository-name]/[source-image]
 ```
-
 
 
 ## Docker Hub links:
