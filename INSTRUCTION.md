@@ -41,5 +41,5 @@
 
 
 ## Docker Hub links:
-# App image: [https://hub.docker.com/repository/docker/aisengrim/todoapp2/general]
-# MySQL image: [https://hub.docker.com/repository/docker/aisengrim/mysql-local/general]
+App image: [aisengrim/todoapp2](https://hub.docker.com/repository/docker/aisengrim/todoapp2/general)
+MySQL image: [aisengrim/mysql-local](https://hub.docker.com/repository/docker/aisengrim/mysql-local/general)
